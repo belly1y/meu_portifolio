@@ -22,3 +22,21 @@ footer a {
 footer a:hover {
     color: var(--cor-destaque)
 }
+
+body.dark-mode{
+    background-color: rgba(18, 18, 18, 0.853);
+    color: #ffffff;
+}
+
+.dark-mode {
+    margin-top: 20px;
+}
+
+ display: felx;
+}
+
+
+.dark-mode-btn {
+    background-color: rbg(44, 62, 80);
+    color: wheite;
+}
